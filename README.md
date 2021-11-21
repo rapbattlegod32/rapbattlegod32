@@ -4,5 +4,4 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rapbattlegod32.rapbattlegod32" alt="visitor badge"/>       
 </p>
 
-if you want to tip me some money much appreciated
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q6732ES)
