@@ -1,4 +1,4 @@
-![rapbattlegod32's Github stats] (https://github-readme-stats.vercel.app/api?username=rapbattlegod32&show_icons=true&theme=tokyonight)
+![rapbattlegod32's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapbattlegod32&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapbattlegod32&layout=compact)]
 <p  align="left">
